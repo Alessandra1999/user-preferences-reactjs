@@ -1,0 +1,30 @@
+.list {
+    display: block;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.item {
+    margin: 10px;
+    padding: 20px;
+    height: 70px;
+    border: 1px solid #d35ce2;
+}
+
+.list .item {
+    width: 98%;
+    text-align: center;
+    padding: 5px;
+}
+
+.grid .item {
+    width: calc(33.333% - 20px);
+    text-align: center;
+}
+
+
