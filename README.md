@@ -15,3 +15,5 @@ Instruções:
 - Consuma o Contexto: Crie um componente ViewModeSwitcher.jsx que consuma o contexto UserPreferencesContext e permita ao usuário alternar entre os modos de exibição (lista ou grade).
 
 - Exiba os Itens: Crie um componente ItemList.jsx que consuma o contexto UserPreferencesContext e exiba os itens no modo de exibição selecionado pelo usuário.
+
+### Você pode acessar através do link: https://alessandra1999.github.io/user-preferences-reactjs/
